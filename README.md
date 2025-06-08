@@ -7,3 +7,6 @@
 - Microsoft Office (Office Deployment Tool) (см. ***applications***)
 - [OnlyOffice](https://www.onlyoffice.com/ru/download.aspx?from=default#docs-enterprise)
 - [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/)
+
+## Утилиты
+- Rufus (см. ***applications***)
