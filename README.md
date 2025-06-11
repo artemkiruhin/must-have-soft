@@ -49,3 +49,4 @@
 - [Postman](https://www.postman.com/downloads/)
 - [WAMP.NET](https://wamp.net/)
 - [PostgreSQL](https://www.postgresql.org/download/)
+- [MongoDB](https://www.mongodb.com/try/download/community)
