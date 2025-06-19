@@ -23,6 +23,7 @@
 - [OBS Studio](https://obsproject.com/download)
 - [WinRAR](https://www.win-rar.com/start.html?&L=4)
 - [7Zip](https://www.7-zip.org/download.html)
+- [Ventoy](https://www.ventoy.net/en/download.html)
   
 ## Менеджмент, организация пространства
 - [Obsidian](https://obsidian.md/download)
