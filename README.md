@@ -12,6 +12,7 @@
 - [Mozilla Firefox](https://www.mozilla.org/ru/firefox/new/)
 - [Яндекс браузер](https://browser.yandex.ru/)
 - [Google Chrome](https://www.google.com/intl/ru/chrome/safety/)
+- [Mozilla Zen Browser](https://zen-browser.app/download/)
 
 ## Утилиты
 - Rufus (см. ***applications***)
