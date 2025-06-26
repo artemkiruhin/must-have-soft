@@ -42,6 +42,9 @@
 - [Figma](https://www.figma.com/downloads/)
 - [Upscayl (*апскейлинг*)](https://upscayl.org/download)
 
+## Системным администраторам
+- NIUBI Partition Editor (см. **applications**)
+
 ## Программистам
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [Node.js](https://nodejs.org/en/download)
