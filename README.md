@@ -59,3 +59,15 @@
 - [MongoDB](https://www.mongodb.com/try/download/community)
 - [JetBrains Toolbox](https://www.jetbrains.com/ru-ru/toolbox-app/)
 - [OpenSSH Server](https://github.com/powershell/win32-openssh/releases)
+
+## Команды
+
+### Massgrave
+Активация Windows и Office.
+
+В командной строке запустить:
+
+```cmd
+irm https://get.activated.win | iex
+
+```
