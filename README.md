@@ -59,6 +59,7 @@
 - [MongoDB](https://www.mongodb.com/try/download/community)
 - [JetBrains Toolbox](https://www.jetbrains.com/ru-ru/toolbox-app/)
 - [OpenSSH Server](https://github.com/powershell/win32-openssh/releases)
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 ## Команды
 
