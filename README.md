@@ -73,3 +73,22 @@
 irm https://get.activated.win | iex
 
 ```
+
+### Фикс RDP 
+1. Находим процессы, связанные с rdp:
+```cmd
+tasklist /svc | findstr "TermService"
+
+```
+
+2. Завершаем все процессы:
+```cmd
+taskkill /F /PID <сам пид>
+
+```
+
+3. Запускаем rdp:
+```cmd
+net start TermService
+
+```
