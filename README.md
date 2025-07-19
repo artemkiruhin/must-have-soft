@@ -47,6 +47,7 @@
 - NIUBI Partition Editor (см. **applications**)
 - [Advanced IP Scanner](https://www.advanced-ip-scanner.com/ru/)
 - [Advanced PORT Scanner](https://www.advanced-port-scanner.com/)
+- [Crystal Disk Info](https://crystalmark.info/en/software/crystaldiskinfo/)
 
 ## Программистам
 - [Visual Studio Code](https://code.visualstudio.com/download)
